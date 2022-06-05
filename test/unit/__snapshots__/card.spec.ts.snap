@@ -1,0 +1,36 @@
+// Vitest Snapshot v1
+
+exports[`Card > Renders the component 1`] = `
+"<div class=\\"v-card v-theme--light v-card--density-default elevation-8 v-card--variant-contained pa-2 mb-2\\">
+  <!---->
+  <div class=\\"v-card__underlay\\"></div>
+  <!---->
+  <!---->
+  <!---->
+  <!---->
+  <!---->
+  <div class=\\"v-list-item v-theme--light v-list-item--density-default v-list-item--three-line v-list-item--variant-text\\">
+    <!---->
+    <div class=\\"v-list-item__underlay\\"></div>
+    <!---->
+    <!---->
+    <v-list-item-content>
+      <p class=\\"text-overline mb-4\\" title-test=\\"Title Card 1\\">Title Card 1</p>
+      <div class=\\"v-list-item-title text-h4 mb-1\\" stats-test=\\"15\\">15</div>
+      <div class=\\"v-list-item-subtitle\\" content-test=\\"Content Card 1\\">Content Card 1</div>
+    </v-list-item-content>
+    <div class=\\"flex-grow-1\\"></div>
+    <div class=\\"v-avatar v-avatar--end v-avatar--density-default v-avatar--size-default v-list-item-avatar v-list-item-avatar--end mt-4\\"><i class=\\"mdi-account-group mdi v-icon notranslate v-icon--size-x-large v-theme--light\\" aria-hidden=\\"true\\" iconname-test=\\"mdi-account-group\\"></i></div>
+    <!---->
+    <!---->
+  </div>
+  <div class=\\"v-card-actions\\"><a class=\\"v-btn v-theme--light text-dark v-btn--density-default v-btn--size-default v-btn--variant-text\\" tabindex=\\"0\\" buttonname-test=\\"Button Test 1\\">
+      <div class=\\"v-btn__overlay\\"></div>
+      <div class=\\"v-btn__underlay\\"></div>
+      <!---->
+      <div class=\\"v-btn__content\\" data-no-activator=\\"\\">Button Test 1</div>
+      <!---->
+    </a></div>
+  <!---->
+</div>"
+`;
