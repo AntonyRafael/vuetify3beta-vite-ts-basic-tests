@@ -33,7 +33,6 @@ describe("Card", () => {
   });
 
   it("Renders the template with data", () => {
-    console.log(wrapper.vm.id);
     expect(wrapper.vm.id).toBe(1);
     expect(wrapper.vm.title).toBe("Title Card 1");
     expect(wrapper.vm.content).toBe("Content Card 1");
